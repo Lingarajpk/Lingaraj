@@ -393,11 +393,13 @@ html {
 .section-title h2 {
     margin-bottom: 15px;
     font-size: 50px;
+    text-align: center !important;
 }
 
 .section-title p {
     font-size: 16px;
     padding: 0px 300px;
+    text-align: center !important;
 }
 
 .section-title h2 span {
