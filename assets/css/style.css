@@ -1454,7 +1454,8 @@ html {
 .service-item {
     -webkit-transition: 0.5s;
     transition: 0.5s;
-    padding: 60px 40px;
+    padding: 10px 30px;
+    margin: 10px;
     border-radius: 10px;
     border: 1px solid var(--border-color);
 }
